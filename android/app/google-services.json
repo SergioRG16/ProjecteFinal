@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1088655836231",
+    "project_id": "cuinacompartida-b4186",
+    "storage_bucket": "cuinacompartida-b4186.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088655836231:android:dfca92eb290a8d47315d62",
+        "android_client_info": {
+          "package_name": "com.example.login_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7GBJ_lK49-ftUPjVsBYYh0k-ZQPDVW1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
